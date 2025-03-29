@@ -43,7 +43,7 @@ header {
   border-bottom: var(--secondary-color) 6px solid;
 }
 
-.header__link {
+header a {
   font-size: 1.5rem;
   color: var(--off-white);
 }
